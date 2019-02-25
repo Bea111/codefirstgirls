@@ -1,5 +1,5 @@
 .navbar-inverse {
-  background-color: rgba(211,211,211,0.5);
+  background-color: rgba(192,192,192,0.5);
   border: 0;
 }
 
@@ -10,6 +10,15 @@
 
 .navbar-toggle {
   border: 0;
+}
+
+.jumbotron {
+  background-position: absolute;
+  background-image: url(https://i.pinimg.com/originals/85/6d/e1/856de1f782fad66f7ef53dc230e238cb.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -1;
 }
 
 body {
